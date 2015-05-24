@@ -30,22 +30,23 @@ Getting and Cleaning Data
     
 ```
 
-**Dependencies**
+
+## Dependencies
 The script `run_analysis.R` depends on the libraries `dplyr`,`plyr` and `tools`. You have to install them.
     
-**Running the Script** 
+## Running the Script
 * According the shape above, the right relative_path is the predefined in script run_analysis.R, otherwise you have to change it accordingly.        
 * Source the script `run_analysis.R`.
 
-**Products**
+## Products
 1. Final Data set without labels: `finalData`
 2. Labeled Data set: `labeledData`
 3. Avg Data set: `avgSet` and the relative file `avgSet.txt`
 
  
-**Codebook**
+## Codebook 
 Information about the datasets is provided in `CodeBook.md`.     
 
-**Code** 
+## Code 
 The code contains commments explaining the course targets. 
 
