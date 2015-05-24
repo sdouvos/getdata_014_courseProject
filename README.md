@@ -13,8 +13,7 @@ Getting and Cleaning Data
 * Donwload the project.
 * Download the raw data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip it(name:"UCI HAR Dataset"). You have to delete the zip file after this step.
   The directory structure should look like this or you have to set relative_path variable in script run_analysis.R
- 
- ```
+```
     ├── UCI HAR Dataset
     │   ├── README.txt
     │   ├── activity_labels.txt
@@ -27,7 +26,6 @@ Getting and Cleaning Data
     		├── README.md
     		├── CodeBook.md
     		└── run_analysis.R
-    
 ```
 
 

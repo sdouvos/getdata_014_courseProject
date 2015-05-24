@@ -28,7 +28,7 @@ The script has a structure like this:
     
 ```
 
-# Details
+## Details
 1. paths:
   1. `relative_path`:  the user has to set this
   2. `dir_path`: the name of initial Directory `UCI HAR Dataset` 
